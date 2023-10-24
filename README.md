@@ -1,30 +1,32 @@
 
-# hi! i'm Maikel Mureau
+# Hey, I'm Maikel Mureau! 
 
-i'm a student software developer. I live in The netherlands. my hobby's are playing with my bunny's and writing code.
-## 🚀 About Me
-- I want to be a web devaloper
-- I can work in a team
-
+I'm a student studying software development. I live in the Netherlands, and my hobbies include making websites, listening to music, and playing with my animals.
 ## what i'm working on
-I'm woring on website's for myself like portolio. In my spare time i like to work on my webshops i want to make (they are still work in progress). But for now sit back relax and take a look on my github.
+I'm currently building websites, including my personal portfolio. In my free time, I enjoy working on my webshops (which are still a work in progress). Feel free to sit back, relax, and take a look at my GitHub to see what I'm up to!
 
 
-## Languages i know
+## My Programming Languages
 
- - html
- - css 
+ - HTML
+ - CSS
  - MySQL
  - PHP
- - c#
+ - C#
  - Python
 
- ### Frames works i can work with
+ ### Web Development Tools
  - laravel 
  - bootstrap 
  
- ### packes i know about
+ ### Packages and Tools I Work With
  - npm 
  - composer
  
+
+
+## links
+- Github https://github.com/maikel12567
+- School test place https://d294484.nl
+- LinkedIn https://www.linkedin.com/in/maikel-mureau-1bb720233/
 
